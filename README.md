@@ -4,7 +4,7 @@ Code Guide là 1 dự án cung cấp tài liệu tiêu chuẩn cho việc lập 
 
 Bản dịch tiếng Việt được cung cấp bởi [@khoipro](https://github.com/khoipro) từ SolisLab.
 
-**[Bắt đầu đọc ☞](http://mdo.github.io/code-guide)**
+**[Bắt đầu đọc ☞](https://khoipro.github.io/code-guide-vn/)**
 
 ---
 
