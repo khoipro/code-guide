@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
+name:          Code Guide bởi SolisLab
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguidevn.github.io
+url:           https://khoipro.github.io/code-guide-vn/
 
 markdown:      rdiscount
 permalink:     pretty
