@@ -1,22 +1,24 @@
 # Code Guide
 
-Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
+Code Guide là 1 dự án cung cấp tài liệu tiêu chuẩn cho việc lập trình HTML và CSS một cách linh hoạt, chắc chắn và bền vững. Nó được tổng hợp bởi các kinh nghiệm viết coding từ các project nhỏ đến lớp. Nó sẽ được thường xuyên cập nhật.
 
-**[Start reading ☞](http://mdo.github.io/code-guide)**
+Bản dịch tiếng Việt được cung cấp bởi [@khoipro](https://github.com/khoipro) từ SolisLab.
+
+**[Bắt đầu đọc ☞](http://mdo.github.io/code-guide)**
 
 ---
 
-### License
+### Bản quyền
 
-Released under MIT by, and copyright 2014, @mdo.
+Phát hành với bản quyền MIT và thuộc về @mdo từ năm 2014.
 
-### Thanks
+### Lời cảm ơn
 
-Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
+Được lấy cảm hứng từ [Idiomatic CSS](https://github.com/necolas/idiomatic-css) và [GitHub Styleguide](http://github.com/styleguide).
 
-### Translations
+### Dịch thuật
 
-Translations are maintained by their creators and may not always be up to date with the original here.
+Bản dịch được cập nhật bởi tác giả và có thể không mới nhất như bản gốc
 
 - [Chinese](http://zoomzhao.github.io/code-guide/) - Translated by [Zoom Zhao](https://github.com/ZoomZhao)
 - [Chinese](http://codeguide.bootcss.com/) - Translated by [Wang Sai](https://github.com/wangsai)
